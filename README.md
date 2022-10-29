@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brotherludi
+- 👋🏻 Hi, I’m @brotherludi
 - 🤓 I’m interested in coding
 - 🌱 I’m currently learning web development 
 - 📫 brotherludi@hotmail.com
