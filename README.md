@@ -1,9 +1,9 @@
 - 👋🏻 Hi, I’m Di
 - 🌱 I’m a junior web developer
-- 🤓 LANGUAGES: JavaScript, Ruby, HTML, CSS
-     FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS: NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails, SASS
-     TESTING: Storybook, Cypress, RSpec, Jest, Mocha, Chai
-     SYSTEMS, CMS, AND DATABASES: SQL, Git
+- 🤓 LANGUAGES: JavaScript, Ruby, HTML, CSS<br>
+  &emsp; FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS: NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, ActiveRecord, Rails<br>
+  &emsp; TESTING: Storybook, Cypress, RSpec, Jest, Mocha, Chai<br>
+  &emsp; SYSTEMS, CMS, AND DATABASES: SQL, Git<br>
 - 🗣️ SPOKEN LANGUAGES: English, Mandarin Chinese
 - 📫 brotherludi@hotmail.com
 - 📍 Calgary, AB
