@@ -5,8 +5,13 @@
   &emsp; TESTING: Storybook, Cypress, RSpec, Jest, Mocha, Chai<br>
   &emsp; SYSTEMS, CMS, AND DATABASES: SQL, Git<br>
 - 🗣️ SPOKEN LANGUAGES: English, Mandarin Chinese
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brotherludi/)
 - 📫 brotherludi@hotmail.com
 - 📍 Calgary, AB
+
+
+
+              
 
 <!---
 brotherludi/brotherludi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
